@@ -12,8 +12,7 @@
 
 - type: soundcloud
   icon: "fa-brands fa-soundcloud"
-  noblank: true # open link in current tab
-
+  url: "https://soundcloud.com/chogamy"
 
 - type: rss
   icon: "fas fa-rss"
